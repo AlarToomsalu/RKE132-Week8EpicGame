@@ -1,7 +1,7 @@
 ﻿//string[] heroes = { "Harry Potter", "Luke", "Croft", "Batman"};
 //string[] villains = { "Ülo", "Valdis", "Dilliger", "Joker", "James Bond" };
 
-string folderPath = @"C:\Users\alart\Desktop\Data";
+string folderPath = @"C:\Data";
 string heroFile = "heroes.txt";
 string villainFile = "villains.txt";
 string weaponFile = "weapons.txt";
